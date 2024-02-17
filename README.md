@@ -46,6 +46,12 @@ function showName(nome){
         <span>Curso Git</span>
     </h1>
 ```
+**Últimas updates:**
+>[x] Site responsivo. 
+
+>[ ] Login com facebook.
+
+>[ ] Página sobre a empresa.
 
 **CSS padrão do projeto:**
 
